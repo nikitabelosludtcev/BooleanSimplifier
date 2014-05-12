@@ -1,1 +1,3 @@
- language: objective-c
+anguage: objective-c
+xcode_project: BooleanFunctionsSimplifier.xcodeproj # path to your xcodeproj folder
+xcode_scheme: BooleanFunctionsSimplifier
